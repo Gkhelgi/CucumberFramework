@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="10" total="11" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="39515" started-at="2019-12-31T18:12:00 PST" finished-at="2019-12-31T18:12:40 PST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="39515" started-at="2019-12-31T18:12:00 PST" finished-at="2019-12-31T18:12:40 PST">
+      <class name="Xero_TestCases.Implement_Xero">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Xero_TestCases.Implement_Xero@51cdd8a]" name="setUp" is-config="true" duration-ms="5756" started-at="2019-12-31T18:12:00 PST" finished-at="2019-12-31T18:12:06 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="signUp_C_TC1()[pri:0, instance:Xero_TestCases.Implement_Xero@51cdd8a]" name="signUp_C_TC1" duration-ms="32978" started-at="2019-12-31T18:12:06 PST" finished-at="2019-12-31T18:12:39 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUp_C_TC1 -->
+        <test-method status="PASS" signature="teardown2()[pri:0, instance:Xero_TestCases.Implement_Xero@51cdd8a]" name="teardown2" is-config="true" duration-ms="108" started-at="2019-12-31T18:12:39 PST" finished-at="2019-12-31T18:12:39 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown2 -->
+        <test-method status="PASS" signature="tearDown1()[pri:0, instance:Xero_TestCases.Implement_Xero@51cdd8a]" name="tearDown1" is-config="true" duration-ms="590" started-at="2019-12-31T18:12:39 PST" finished-at="2019-12-31T18:12:40 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown1 -->
+      </class> <!-- Xero_TestCases.Implement_Xero -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
